@@ -1,4 +1,6 @@
 # GUI_based_book_management_system
-It is a Java Swing based book management system.
+It is a Java Swings based application.
+It acts as a digital library.
 The project done on NetBeans IDE 8.2.
-The .java files for this project are in Console based book management system repository.
+The executable jar file is in dist folder.
+The exported database .sql file is in bms_database folder
